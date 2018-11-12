@@ -1,3 +1,6 @@
 def oxford_comma(array)
-return "kiwi"
+if array.length > 1 
+  return array.
+else
+  return array
 end
